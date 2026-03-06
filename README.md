@@ -1,4 +1,4 @@
-# Marvellous Full Stack Project
+# Full Stack Project
 
 ## Description
 This is a Full Stack Web Application built using Spring Boot for backend and React for frontend. The application manages batch entries and demonstrates REST API integration.
